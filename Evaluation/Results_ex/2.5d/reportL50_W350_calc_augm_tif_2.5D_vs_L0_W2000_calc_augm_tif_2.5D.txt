@@ -1,0 +1,20 @@
+Dice analysis with limit: 0.1
+Patient: 223535, L50_W350_calc_augm_tif_2.5D: 0.7463469821524856, L0_W2000_calc_augm_tif_2.5D :0.8513410403828172
+Patient: 665325, L50_W350_calc_augm_tif_2.5D: 0.6596239695162336, L0_W2000_calc_augm_tif_2.5D :0.7646753664641959
+
+Jaccard analysis with limit: 0.1
+Patient: 737795, L50_W350_calc_augm_tif_2.5D: 0.6918654165793178, L0_W2000_calc_augm_tif_2.5D :0.7964329349341918
+Patient: 774095, L50_W350_calc_augm_tif_2.5D: 0.6690321751221139, L0_W2000_calc_augm_tif_2.5D :0.7752845499290243
+Patient: 223535, L50_W350_calc_augm_tif_2.5D: 0.5953377621456546, L0_W2000_calc_augm_tif_2.5D :0.7411608408700755
+Patient: 288313, L50_W350_calc_augm_tif_2.5D: 0.6265557958296966, L0_W2000_calc_augm_tif_2.5D :0.7499268675388376
+Patient: 541516, L50_W350_calc_augm_tif_2.5D: 0.6927700115185, L0_W2000_calc_augm_tif_2.5D :0.8003290314916803
+Patient: 665325, L50_W350_calc_augm_tif_2.5D: 0.4921185954647094, L0_W2000_calc_augm_tif_2.5D :0.6190076241542324
+
+HD analysis with limit: 110
+Patient: 741814, L50_W350_calc_augm_tif_2.5D: 154.2027125653113, L0_W2000_calc_augm_tif_2.5D :37.36381521606165
+Patient: 756125, L50_W350_calc_augm_tif_2.5D: 184.6249576844908, L0_W2000_calc_augm_tif_2.5D :25.10726986352758
+Patient: 327814, L50_W350_calc_augm_tif_2.5D: 178.086015470755, L0_W2000_calc_augm_tif_2.5D :37.14283031420734
+
+MAD analysis with limit: 5
+Patient: 761362, L50_W350_calc_augm_tif_2.5D: 8.27384633907478, L0_W2000_calc_augm_tif_2.5D :15.03585430848499
+Patient: 38011, L50_W350_calc_augm_tif_2.5D: 4.914706898395448, L0_W2000_calc_augm_tif_2.5D :10.68821710074086

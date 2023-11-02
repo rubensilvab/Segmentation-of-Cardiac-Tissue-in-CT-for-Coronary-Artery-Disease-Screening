@@ -1,0 +1,14 @@
+Best	Patient	Dice
+	756850	0.942357431 
+	750504	0.9421265
+	736311	0.941871792
+	306437	0.939711962
+	761868	0.938164064
+
+Worst	Patient	Dice
+	777072	0.732991879 -> Várias calcificações estranhas, como se fossem flashes, anatomia diferenciada
+	665325	0.764675366 -> Anatomia diferenciada,com algumas semelhanças com a de cima: coração grande em proporção com os pulmões.
+			       Coração muito junto às costelas no lado direito.	
+	164287	0.793858196 -> Anatomia diferenciada, com algumas semelhanças com os de cima.
+	726287	0.795564943 -> Várias calcificações estranhas, como se fossem flashes, anatomia parecida com os de cima.
+	428239	0.816313315
