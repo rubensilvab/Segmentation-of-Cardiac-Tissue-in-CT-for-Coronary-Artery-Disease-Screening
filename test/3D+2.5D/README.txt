@@ -1,0 +1,1 @@
+Utilization of 3D approach for pre-processing and detect the limits of the pericardium. Then use the 2.5D model to segment accurately the pericardium. 
