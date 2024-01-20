@@ -118,6 +118,11 @@ incorrectly classifies non-EAT fats as EAT. This primarily
 happens with patients who exhibit anatomical variations, and
 in the lower slices where other organs may be present.
 
+![1 (9)](https://github.com/rubensilvab/Pericardial-Segmentation/assets/130314085/5897322a-e652-4bb1-9d8c-afba863d06e0)
+**Figure 3.**          *Examples of EAT segmentation from the manual (top row) and automatic (bottom row) approach*
+
+Figure 3 showcases three examples of EAT segmentation from different patients. In the first scenario, there is general agreement among segmentations, although a slightly larger EAT volume was identified by the human reader. The second instance illustrates the accuracy of the automatic model to deal with huge calcifications, presenting an almost perfect EAT segmentation. Additionally, the minimal impact of zoom and rotation on the model in these two cases underscores the efficacy of data augmentation methods. The third example exposes a deficiency in the automated approach, inaccurately segmenting EAT due to anatomical variations, being this a reason for the lower precision values. These variations are primarily observed in the lower slices where other organs might be present, and they occasionally appear in higher regions than usual due to certain medical conditions. This can lead the model to misidentify them as the pericardium. Therefore, this instance emphasizes the need for broader training data, encompassing diverse anatomical variations that conventional augmentation techniques cannot simulate.
+
 ## Conclusion
 
 In conclusion, a successful model was developed for automated
