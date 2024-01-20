@@ -68,7 +68,6 @@ Distance (MAD) as evaluation metrics.
                       **Figure 1.**          *Pericardial segmentation using the 2.5D U-Net*
 
 
-Note that many variations and experiments were performed in this study, but only the automatic method taht achieved the best result was selected in this summary about this work.
 ### EAT segmentation
 
 Once the pericardium was accurately segmented, the fat HU
