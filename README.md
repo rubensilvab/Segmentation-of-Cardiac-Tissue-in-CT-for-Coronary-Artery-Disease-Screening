@@ -142,6 +142,21 @@ for training the model and evaluation on an external private
 dataset, making direct comparisons with existing literature
 results challenging.
 
+## Fold Description
+
+- Data
+    - Cardiac Fat New (Example of the destribution of data in .tif format)
+        -  Dicom
+            - Patient
+                - 0.tif 
+                - 1.tif
+                - ...NrSlice.tif
+        -  Mask
+            - Patient
+                - 0.tif 
+                - 1.tif
+                - ...NrSlice.tif
+        
 [^1]: O. Rodrigues, F. Morais, N. Morais, L. Conci, L. Neto, and A. Conci,
 “A novel approach for the automated segmentation and volume quantification
 of cardiac fats on computed tomography,” Computer Methods and
