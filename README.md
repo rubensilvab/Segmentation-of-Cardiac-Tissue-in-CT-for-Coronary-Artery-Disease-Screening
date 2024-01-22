@@ -146,10 +146,10 @@ results challenging.
 
 Primary Folders:
 
-- [Data](../data) - Illustrates the distribution of data in this work.
-- [Pre-processing](../pre-processing) - Details the conversion of data from raw DICOM format to .tif, enabling Deep Learning model training.
-- [Train](../train) - Encompasses the framework employed for training models in various experiments within this study.
-- [Test](../test) - Encompasses the framework used for testing models in various experiments within this study.
+- [Data](data) - Illustrates the distribution of data in this work.
+- [Pre-processing](pre-processing) - Details the conversion of data from raw DICOM format to .tif, enabling Deep Learning model training.
+- [Train](train) - Encompasses the framework employed for training models in various experiments within this study.
+- [Test](test) - Encompasses the framework used for testing models in various experiments within this study.
 
 Additional folders:
 
