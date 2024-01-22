@@ -24,9 +24,10 @@ First, the DICOM images were converted to the same range as labeled images of [-
 
 It should be noted that the images are misaligned in exactly the same way within each patient, therefore only one manually chosen transformation matrix is applied per patient. With this, there will be 20 transformation matrices corresponding to the 20 patients in the database.
 
-![registration](https://github.com/rubensilvab/Pericardial-Segmentation/assets/130314085/f15b0742-0e53-4c25-96f6-6c96166d6231)
 
 ### Results
+
+![registration](https://github.com/rubensilvab/Pericardial-Segmentation/assets/130314085/f15b0742-0e53-4c25-96f6-6c96166d6231)
 
 **Figure 3.** *Two examples of the application of image registration. On the left both labels aren´t regist and they aren´t align with the DICOM image. On the right both labels are aligned with the DICOM image after performing registration.*
 
