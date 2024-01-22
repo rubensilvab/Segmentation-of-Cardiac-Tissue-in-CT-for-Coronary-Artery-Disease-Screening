@@ -1,7 +1,7 @@
 # Pre-Processing
 
 There are two main different processings detailled here:
-- Image Registration (Applied only on the Cardiac Fat Dataset). The code can be found in [Registration.py](Registration.py).
+- Image Registration (Applied only on the Cardiac Fat Dataset). The code can be found in [Registration.ipynb](Registration.ipynb).
 
 - General Data Organization to convert Dicom files to .tif files. The code for this organization can be found in [data_organization.py](data_organization.py).
 
@@ -34,4 +34,4 @@ As you can see more clearly from Figure 3 before the application of image regist
 
 ## General Data Pre-Processing 
 
-The entire CT dataset underwent conversion from the DICOM format, which encompasses a broad range of values, to the 16-bit .tif format, facilitating Deep Learning training. Additionally, all data was arranged as outlined in the [data](data) folder. The code for this organization can be found in [data_organization.py](data_organization.py).
+The entire CT dataset underwent conversion from the DICOM format, which encompasses a broad range of values, to the 16-bit .tif format, facilitating Deep Learning training. Additionally, all data was arranged as outlined in the [data](Pericardial-Segmentation/data) folder. The code for this organization can be found in [data_organization.py](data_organization.py).
