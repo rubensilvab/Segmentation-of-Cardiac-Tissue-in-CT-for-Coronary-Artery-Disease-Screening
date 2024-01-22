@@ -144,18 +144,17 @@ results challenging.
 
 ## Fold Description
 
-- Data
-    - Cardiac Fat New (Example of the destribution of data in .tif format)
-        -  Dicom
-            - Patient
-                - 0.tif 
-                - 1.tif
-                - ...NrSlice.tif
-        -  Mask
-            - Patient
-                - 0.tif 
-                - 1.tif
-                - ...NrSlice.tif
+Primary Folders:
+
+- Data - Illustrates the distribution of data in this work.
+- Pre-processing - Details the conversion of data from raw DICOM format to .tif, enabling Deep Learning model training.
+- Train - Encompasses the framework employed for training models in various experiments within this study.
+- Test - Encompasses the framework used for testing models in various experiments within this study.
+
+Additional folders:
+
+Contain auxiliary scripts, potentially beneficial for various simple tasks but not essential for the core objectives of this work.
+    
         
 [^1]: O. Rodrigues, F. Morais, N. Morais, L. Conci, L. Neto, and A. Conci,
 “A novel approach for the automated segmentation and volume quantification
