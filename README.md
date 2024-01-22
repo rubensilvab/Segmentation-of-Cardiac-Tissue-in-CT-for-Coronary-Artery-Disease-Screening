@@ -1,5 +1,5 @@
 # Segmentation of Cardiac Tissue in CT for Coronary Artery Disease Screening  
-Please be aware that numerous variations and experiments were conducted during this study. However, only the automatic method that yielded the most favorable outcome has been included in this summary of the work.
+Please be aware that numerous variations and experiments were conducted during this study. However, only the automatic method that yielded the most favorable outcome has been included in this summary of the work. To access the entire study, please visit: https://hdl.handle.net/10216/153041.
 
 ## Motivation
 
