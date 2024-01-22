@@ -28,5 +28,8 @@ It should be noted that the images are misaligned in exactly the same way within
 
 **Figure 3.** *Two examples of the application of image registration. On the left both labels aren´t regist and they aren´t align with the DICOM image. On the right both labels are aligned with the DICOM image after performing registration.*
 
-As you can see more clearly from Fig. \ref{registration} before the application of image registration for this patient, the labels were completely out of alignment with the DICOM image. After the transformation matrix was applied to the same mask, the correct alignment of the mask with the DICOM image is verified as can be seen in the Fig. \ref{registration} These results were observed for all patients in a qualitative way, so it was considered that this initial phase of the work was done, and the database organized for the following application. 
+As you can see more clearly from Figure 3 before the application of image registration for this patient, the labels were completely out of alignment with the DICOM image. After the transformation matrix was applied to the same mask, the correct alignment of the mask with the DICOM image is verified as can be seen in the Figure 3. These results were observed for all patients in a qualitative way, so it was considered that this initial phase of the work was done, and the database organized for the following application. 
 
+## General Data Pre-Processing 
+
+The entire CT dataset underwent conversion from the DICOM format, which encompasses a broad range of values, to the 16-bit .tif format, facilitating Deep Learning training. Additionally, all data was arranged as outlined in the data folder. The code for this organization can be found in [data_organization.py].
